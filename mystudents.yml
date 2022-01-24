@@ -1,0 +1,17 @@
+---
+- mystudentDeatils: 
+     - name: sai 
+       phono:  818181818181
+       emailid: sai@gmail.com
+       address: hyd
+
+
+     - name: lokesh
+       phono:  717171717171
+       emailid: lokesh@gmail.com
+       address: hyd
+
+     - name: teja
+       phono: 6161616161
+       emailid: teja@gmail.com
+       address: hyd
